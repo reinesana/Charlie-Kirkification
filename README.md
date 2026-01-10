@@ -30,8 +30,9 @@ Using your webcam, the program tracks your eye and iris movement in real time to
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/charlie-kirkification.git
-cd charlie-kirkification
+git clone https://github.com/reinesana/Charlie-Kirkification.git
+
+cd Charlie-Kirkification
 ```
 
 ### 2. Install dependencies
