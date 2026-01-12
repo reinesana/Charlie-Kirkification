@@ -81,9 +81,13 @@ Feel free to contribtue to improve this tool
    ```
 4. Push your branch and open a pull request
 
-
-
 ---
+
+## License
+
+This project is licensed under the MIT License.  
+See the [LICENSE](LICENSE) file for details.
+
 
 Lock in and have fun 💪
 
