@@ -1,2 +1,15 @@
-.conda/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+.venv/
 venv/
+env/
+.conda/
+
+.vscode/
+.DS_Store
+*.log
+*.tmp
+.ipynb_checkpoints/
